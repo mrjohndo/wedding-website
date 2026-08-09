@@ -6,7 +6,6 @@ window.WEDDING_I18N = {
     },
     nav: {
       overview: "Overview",
-      tea: "Tea Ceremony",
       wedding: "Wedding",
       travel: "Travel",
       faq: "FAQ",
